@@ -27,3 +27,4 @@ notebook_final.ipynb : L'intégralité des codes source et analyses.
 animes.csv : La base de données propre.
 
 Visualisations/ : Dossier contenant les graphiques (graphiques.png), l'histogramme des notes (histogramme.png) et mon nuage de mots personnalisé (nuage.png).
+# PROJET
